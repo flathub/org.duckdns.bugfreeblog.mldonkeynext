@@ -26,13 +26,13 @@
         {
           "type": "git",
           "url": "https://github.com/carlonluca/mldonkey-next.git",
-          "tag": "v0.15.1"
+          "tag": "v0.16.0"
         },
         {
           "type": "archive",
-          "url": "https://github.com/carlonluca/mldonkey-next/releases/download/v0.15.0/webapp-v0.15.0.zip",
+          "url": "https://github.com/carlonluca/mldonkey-next/releases/download/v0.16.0/webapp-v0.16.0.zip",
           "dest": "app/webapp",
-          "sha256": "5efa72175780162068e2db92c323a7c42b9e047066f78c3b4d43d846a67c1170"
+          "sha256": "9bc44974f2d2aec46e9b84d6412741290d0612ecb08db34b5cbac29efe17d1ae"
         }
       ]
     }
