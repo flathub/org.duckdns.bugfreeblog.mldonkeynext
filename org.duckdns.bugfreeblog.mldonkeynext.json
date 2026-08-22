@@ -33,7 +33,7 @@
           "type": "archive",
           "url": "https://github.com/carlonluca/mldonkey-next/releases/download/v1.9.0/webapp-v1.9.0.zip",
           "dest": "app/webapp",
-          "sha256": "8c232ac75dd86bf9a60c0327766aace30d1291e0126db800bd9999fc4172dc06"
+          "sha256": "d8e82bf72418d31657391cf6a769a792c1b4b95dc1a4dea17d45b4e0633f83ed"
         }
       ]
     }
