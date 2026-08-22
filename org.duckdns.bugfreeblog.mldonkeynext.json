@@ -1,10 +1,10 @@
 {
   "app-id": "org.duckdns.bugfreeblog.mldonkeynext",
   "runtime": "org.kde.Platform",
-  "runtime-version": "6.10",
+  "runtime-version": "6.11",
   "sdk": "org.kde.Sdk",
   "base": "io.qt.qtwebengine.BaseApp",
-  "base-version": "6.10",
+  "base-version": "6.11",
   "command": "mldonkey-next",
   "finish-args": [
     "--share=network",
@@ -26,14 +26,14 @@
         {
           "type": "git",
           "url": "https://github.com/carlonluca/mldonkey-next.git",
-          "tag": "v1.8.0",
-          "commit": "7d6b6a68b43d55a2a8721e54608ee13c90e5e80c"
+          "tag": "v1.9.0",
+          "commit": "cecd374948a9471b1caaae47761699bea9945a3e"
         },
         {
           "type": "archive",
-          "url": "https://github.com/carlonluca/mldonkey-next/releases/download/v1.8.0/webapp-v1.8.0.zip",
+          "url": "https://github.com/carlonluca/mldonkey-next/releases/download/v1.9.0/webapp-v1.9.0.zip",
           "dest": "app/webapp",
-          "sha256": "8c232ac75dd86bf9a60c0327766aace30d1291e0126db800bd9999fc4172dc06"
+          "sha256": "d8e82bf72418d31657391cf6a769a792c1b4b95dc1a4dea17d45b4e0633f83ed"
         }
       ]
     }
